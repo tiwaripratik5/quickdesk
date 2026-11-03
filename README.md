@@ -1,4 +1,4 @@
-# QuickDesk — AI-Assisted Helpdesk
+# QuickDesk: AI-Assisted Helpdesk
 
 QuickDesk is an internal helpdesk platform engineered to augment human support agents with generative AI. Rather than replacing agents, the platform accelerates ticket resolution by automatically categorizing and prioritizing incoming tickets, retrieving relevant knowledge base articles via Retrieval-Augmented Generation (RAG), and drafting grounded, citation-backed responses ready for agent review and editing.
 
